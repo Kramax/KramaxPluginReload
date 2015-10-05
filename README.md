@@ -58,7 +58,7 @@ For example, in my autopilot, my main top-level object is a MonoBehavior. It loo
     	...
 	}
 This needed to be changed to this:  
- 
+
 	[KSPAddon(KSPAddon.Startup.Flight, false)]
 	public class KramaxAutoPilot : ReloadableMonoBehaviour /* note changed baseclass here */
     {
@@ -77,7 +77,11 @@ This mod needs to be installed in your KSP GameData directory as a normal mod wo
 Normally it would go into GameData/GramaxPluginReload. The DLL files will be in 
 GameData/GramaxPluginReload/Plugins including both KramaxPluginReload.dll and KramaxReloadExtensions.dll.
 The Settings.cfg file in GameData/GramaxPluginReload is used to configure where the plugin you are
-developing gets loaded from. Here is a sample entry for my autopilot mod:
+developing gets loaded from. You can just copy the folder
+<https://github.com/Kramax/KramaxPluginReload/tree/master/GameData/KramaxPluginReload> to your KSP
+GameData folder.
+
+Here is a sample entry for my autopilot mod:
 
 	PluginSetting
 	{
