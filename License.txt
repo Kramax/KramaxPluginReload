@@ -1,0 +1,9 @@
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to
+Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+The file "ReleaseReloadableMonoBehaviour.cs" is excepted from this license and is released into the public domain.
+
+
+This work is a derivative of "KSPPluginReload" by m1nd0 (joopselen@gmail.com) that was distributed under the same license.
+The original work was found at https://github.com/m1ndst0rm/KSPPluginReload.

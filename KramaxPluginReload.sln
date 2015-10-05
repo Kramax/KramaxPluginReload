@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KramaxPluginReload", "KramaxPluginReload.csproj", "{2E785844-825E-491A-9A5B-8D3D5F6C59EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KramaxReloadExtensions", "KramaxReloadExtensions\KramaxReloadExtensions.csproj", "{7541DE32-35B8-413F-A402-8908EAEC9103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E785844-825E-491A-9A5B-8D3D5F6C59EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E785844-825E-491A-9A5B-8D3D5F6C59EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E785844-825E-491A-9A5B-8D3D5F6C59EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E785844-825E-491A-9A5B-8D3D5F6C59EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7541DE32-35B8-413F-A402-8908EAEC9103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7541DE32-35B8-413F-A402-8908EAEC9103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7541DE32-35B8-413F-A402-8908EAEC9103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7541DE32-35B8-413F-A402-8908EAEC9103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
